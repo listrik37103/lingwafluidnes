@@ -1,4 +1,4 @@
-# The begin(ning): What is it -- lingwa fluidnes?
+# 1. The begin(ning): What is it -- lingwa fluidnes?
 
 Lingwa fluidnes is not any particular lingwa(ge). It is a practice and[an] a way[ol], with[eng] the goal of transforming the internationally used English into a mor good[obry] and[an] fair instrument for the whole world[unya]. It tries to make the result mor easy to lern, and[an] not unfairly benefit any one[hid] group over the others.
 
@@ -8,33 +8,81 @@ I am practicing it rite(ght) now. For now, just know that square brackets, [ ] <
 
 When I say that I am practicing to lingwa fluidnes in this very moment, do not misunderstand that the way[ol] I am doing it[a] now is the final go(a)l. The usage -- or the use[ayong]ing, is fluid, which allows for lingwa fluidnes to smoothly integrate into any use[ayong] case of English. That is it[a]'s key principel.
 
-Why is this use[ayong]ful and[an] what does it[a] mean in practice? Basically, you don't need to lern a whole lingwa to participate, be it[a] ree(a)ding to this text or talk[ahna]ing to a frend. The lower phases of lingwa fluidnes ar cam[il]pletely understandabel with[engan] very littel prior (k)nowledge, and[an] when talk[ahna]ing you wud use[ayong] just the [vas]things you currently (k)now.
-Even [s]if the lower phases do not make up a good[obry] international lingwa by themselves, they pave the way[ol] for the later one[hid]s an[dan] slowly make them mor familiar.
+Why is this use[ayong]ful and[an] what does it[a] mean in practice? Basically, you don't need to lern a whole lingwa to participate, be it[a] ree(a)ding to this text or talk[ahna]ing to a frend. The lower phases (or [wak]time parts) of lingwa fluidnes ar cam[il]pletely understandabel with[engan] very littel prior (k)nowledge, and[an] when talk[ahna]ing you wud use[ayong] just the [vas]things you currently (k)now.
+Even [s]if the lower [wak]time parts do not make up a good[obry] international lingwa by themselves, they pave the way[ol] for the later one[hid]s an[dan] slowly make them mor familiar.
 
-### What are the phases?
+### What are the [wak]time parts?
 
-I am currently use[ayong]ing a lower phase of lingwa fluidnes. Ita's features ar blend words out of standard English + international vocabulary, relativly insignificant grammar changeweys, an[dan] likewise quite tame orthography changeweys.
-On the later phases the blend words collapse, so, for examp[isa]l, the word "world[unya]" becomes just "dunya". The later phases also use[ayong] a lot of new grammar, which, when use[ayong]ed all at once becomes very un-understandable for speekers of standard English.
+I am currently use[ayong]ing a lower part of lingwa fluidnes. Ita's features ar blend words out of standard English + international vocabulary, relativly insignificant grammar changeweys, an[dan] likewise quite tame orthography changeweys.
+On the later parts the blend words collapse, so, for examp[isa]l, the word "world[unya]" becomes just "dunya". The later parts also use[ayong] a lot of new grammar, which, when use[ayong]ed all at once becomes very un-understandable for speekers of standard English.
 
-# The guiding forces of lingwa fluidnes:
+With[engan] the introduction finished, the next part talk[ahna]s about[entang] the philosophy of lingwa fluidnes, ita's guiding forces.
 
-## Word elect[shan]ing
+# 2. The guiding forces of lingwa fluidnes:
 
-The process by which words, or saythings -- ar being elect(d), relies on several [dastu]rules, which aim to point out the best variant for borrwoing and[an] reduce arguing.
+## 2.1. Word elect[shan]ing
 
-### The [dastu]rule of ma(t)ching
+The process by which words, or saythings -- ar being elect(d), relies on several [dastu]rules, which aim to point out the best variant for borowing and[an] reduce arguing. The following [dastu]rules ar ordered from[in] most important to leest.
+
+### [dastu]rule of one[hid]nes ||(unity)||
+
+[S]if the comunity did agree on someow lingwa [dastu]rule or a saything -- you shud changewey to your use[ayong]ing acordingly. Likewise, [s]if a [dastu]rule alredy did get a lot of use[ayong]ing and[an] many[ka] person[afar]s alredy (k)now to it, you shud not reform to it, even [s]if does exist an objectivly mor good[obry] alternativ. Of course, ar posibel some[ow] exception cases, [s]if the old version daz harm too much, and[an] with[engan] comunity voting.
+
+### [dastu]rule of simpelnes
+
+Befor borowing a saything -- try to get know [s]if a mor basic one[hid] satisfies your needs. Try to be minimalist. As[ay] examp[isa]l, do not borow "law" and[an] create some[ow] [vas]thing like "[fa]law", for since[abab] "rule" is enuf.
+
+You shud also serch to way[ol]s to say your wanted meanaing with[engan] combining saythings and[an] afixes first.
+
+The way[ol], in which a person[afar] does get know, that one[hid] saything is mor simpel than other -- is by looking which daz get say (gets said) mor often. 
+
+### [dastu]rule of ma(t)ching
 
 The nyu(ew) saything ||(word)|| shall hav at leest one[hid] sound/letter in common with[engan] the English saything, in the way[ol] that they can be conjoined with[engan] it. As[ay] an examp[isa]l:
 1. Hindi and[an] Arabic [am]both hav "kitāb" (romanized) as[ay] their saything for "book", and[an], handily, "kitāb" also ends with[engan] a "b", just like "book". This permit[in]s for us to make "kitabook".
 2. "dan" is Indonesian for "and", and[an] because[abab] of "dan" starting with[engan] a "d", and[an] "and" ending with[engan] it[a], we can blend them into "andan".
 
-### The [dastu]rule of majority
+### [dastu]rule of majority
 
 The nyu(ew) ma(t)ching saything must hav mor person[afar]s that (k)now it[a] than any other possibel variant. The way[ol] in which this is calculated is by looking at which lingwas the saything is present in, and[an] putting [jun]together their numbers of total speekers (nativ and[an] lerned). This tho daz not include very basic (k)nowage of a lingwa, as[ay], examp[isa]l, such as[ay] most of the world[unya] (k)nowing English on a basic level.
 
-English is not included as a possibel lingwa for borrowing. Only the saythings which ar in any way[ol] especially problematic or hard to change[wey] shud be borrowed. This, as[ay] an examp[isa]l, may concern affixes (words like -ness) and[an] someow parts of gramar. This also cud concern to saythings, about[entang] wich the comunity can not form a consensus.
+### Exceptions to ma(t)ching and[an] majority
 
-# 1. do, to, and[an] ||(some)||mowwak||(time)|| an (the verb, the object, and[an] the subject)
+English is excluded from[in] the list of lingwas from[in] which a saything can be borowed. Insted, the saythings which wil end up being borowed fromin English -- wil be the one[hid]s which ar the problematic for changewey. This, as[ay] an examp[isa]l, may concern affixes (words like -ness) and[an] someow parts of gramar. This also cud concern to saythings, about[entang] wich the comunity can not agree.
+
+In [nadi]rare ocasions, a saything which is recognizabel for an English speeker can be borrowed from[in] an other lingwa, but[api] this requires it to be exceptionally recognizabel for the rest of the world[unya] as well.
+
+The reesons for this is compensating ar:
+1. Saythings always having an English leter / sound left from[in] ma()ching
+2. Un-able-nes to fully change[wey] some[ow] parts of English
+3. Change[wey] phases of lingwa fluidnes having the posibility of being used as[ay] lerning tools for future English speekers
+
+## 2.2. changewey thru [wak]time parts (phases)
+
+Changewey can be dun (done) with[engan] 3 way[ol]s:
+1. Adding part and[an] removing to they
+``
+way + ol = wayol
+wayol - wa = yol 
+``
+2. Sound changewey
+``
+"meana" has an added "a" part, but[api] is also to be change[wey]ed from[in] an "ee" sound slowly to an "a" sound, thru a way[ol] like this:
+ee [iː] -> i [ɪ] -> uh [ə] -> a [a]
+like the vowels in nEEd, sIt, cOmpare, fAther
+``
+3. Mean[a]ing inference
+``
+Mandarin Chinese does use[ayong] "吗" (ma) to form yes or no questions. To make a mor regular way[ol] to ask questions of our for-goals, we can use[ayong] it in addition for English question marking...
+"Do you want to eet ma?"
+...and then drop it when person[afar]s do (k)now to it enuf:
+"You want to eet ma?"
+This is the primary changewey way[ol] for gramar.
+``
+
+# 3. get-proposed gramar, word [jun]together-creating (building), sound and[an] writing system
+
+# 3.1. do, to, and[an] in some[ow] [wak]times an (the verb, the object, and[an] the subject)
 
 For marking the subject, the object, and[an] the verb [s]ay use[ayong] three function words, two of which ar mandatory.
 "mawchik daz eet to appel" = "Mawchik is eating an apple"
@@ -86,7 +134,7 @@ for shortnes tho, [s]if the verb phrase is not too long, I put the second verb a
 
 For since[abab] ita is the most common verb, I consider it acceptabel to giv for ita to someow special treetment. Specifically, special forms as[ay] "be", "is", and[an] "was", being use[ayong]abel in cases wher they ar not modifyed by anyvastu.
 
-# 2. Adjectivs, adverbs -- modifyers
+# 3.2. Adjectivs, adverbs -- modifyers
 
 By default, [s]if ther ar any two words standing by each other, the num. 1 word is assumed to be modifying the num. 2 word.
 "say daz luv to lingwa lerning" = "I love language learning"
@@ -108,7 +156,7 @@ In lower phases, when just sticking words side by side does not go, I recommend 
 
 An alternativ would be sticking to a specific suffix, such as[ay] that same "-ish" (or "-ful", "-like", "-some", "-al", "-ic", "-istic", "-esque"), but[api] this is mor verbose and[an] is not necessary to mark the words as[ay] modifyers. 
 
-# Participels
+# 3.3. Participels
 
 Do exist the activ and[an] the passiv participels
 Activ: ing -> kin
@@ -116,18 +164,59 @@ Activ: ing -> kin
 Pasiv: being -> bing
 "The que(ue) is full of bing service person[afar]s."
 
-# Adpositions (prepositions/postpositions)
+# 3.4. Adpositions (prepositions/postpositions)
 
 I propose not distinguishing *at all* between adpositions and[an] other words. This means that, generally, the following two sentences
 "The book is cat-themed"
 "The book is about cats"
 Would collapse to
-"[kita]book is cat about[entang]" ("kitab is cat tentang")
+"[kita]book is cat about[entang]"  ->  "kitab is cat tentang"
+
+## Implementation of this
+
+Consider the following prepositions:
+`for, under, inside, with, about`
+They hav corresponding nouns and[an] verbs
+``goal/cause/move/motion, bottom, the insides/interior/contain, tool/usage, theme/concern``
+As[ay] we see with[engan] "the insides", English alredy in someow waktimes does a same-like thing. Let's see now how we can changewey to others to be like it:
+
+1. I am going to the building
+-> I daz building for-go
+-> I daz building for (go)
+-> say daz bildfi for
+
+2. The goal was reached within nine hours
+-> For-goal did being reach(ed) of nine hour inside
+    and[an]: The "for" of this did being reached of nine hour inside
+
+3. But simpler tools are available and more useayongful. 
+-> Butapi mor simpel do-with-things ar availabel and[an] mor use-fit
+-> Tapi mor simpel withengan-things ar availabel an[dan] mor useayongfit
+-> Tapi mor simpel dengan is availabel dan mor sayongfit
+
+4. A talk show discussing technology related topics
+-> A talk show discussing teknology related topics
+-> A talk show discussing teknology related abouts  // cud use[ayong] "about-things" but[api] seems like just "about" works in most cases
+
+5. The story tells about an old man
+-> The story abouts an old man  // possibel "about-tells" as[ay] transitional
+-> ...
 
 
-# Saything-b(u)ilding ||word building||
+# 3.5. Saything-b(u)ilding ||(word building)||
 
+## Afixing and[an] afix-likes
 
+For the purpose of this text, {x} shows a saything (||word||), for which whatever is attached
+
+{x}thing / {x}age  --  create to the meanaing of a concrete object
+{x}nes  --  create to the meanaing of a quality of {x}
+an {x}, to {x}, general use[ayong]ing of {x} as a noun  --  some[ow] [vas]thing in between the previous two
+{x}ing  --  the proces of {x}
+
+{x}ish  --  marks the saything as[ay] an adjectic, for lower phases
+{x}fit  --  fit for {x}, havin qualities which make it[a] good[obry] for {x}
+{x}like  -- like {x}, but[api] not cam[il]pletely, only partially or halfway
 
 # Too long?
 
@@ -137,36 +226,3 @@ say daz fast say abil to sayfi
 Kotoba o sugoku hayaku iemasu
 Mabilis akong bumigkas nang salita
 (Mabilis akong bumigkas ng salita)
-
-
-thing -> thi -> fi
-nes
-
-
-
-
-lifl64 _some -> _someow -> _mow 
-(fromin_putonghwa: "某", "mǒu", /moʊ̯²¹⁴/)
-(meana_some, undefined, unspecified)
-// dazen mean[a] to "certain number", "indefinit quantity". Do insted use[ayong] to "someow manyka"
-(unsure)
-
-lifl65 _some -> _someow_manyka -> _mowaneka -> _mowanek
-(fromin_64) (fromin_11)
-
-
-wha wayol is [e]scrib in saythingary? ||(how to, write, saything=thing that is said; word, saythingary=collection of saythings; dictionary)||
-
-dunya!  saythingary is place, that all (perso)nafar daz write abil to nyu(ew) saything for ita.  daz exist rule[ary], that was b(e)ing-crea||(te)|| ||(created)|| for eezy serch to saything, and[an] for posibel after ||(future)|| reed by bot for crea||(te)|| to good[obry] ecletronic saythingary
-
-wha like is rule[ary]?  do look:
-1. daz need to (w)rite to saything (w)rite-thing, that daz in (w)rite-thing start be "lifl" + number for your nyu(ew) write-thing.  as[ay] examp[isa]l, [s]if the last write-thing daz hav "lifl112", yu daz in your ()rite-thing ()rite need to "lifl113"
-2. in after, 
-
-
-
-lifl64 _some -> _someow -> _mow 
-(fromin_putonghwa: "某", "mǒu", /moʊ̯²¹⁴/)
-(meana_some, undefined, unspecified)
-// dazen mean[a] to "certain number", "indefinit quantity". Do insted use[ayong] to "someow manyka"
-(unsure)
