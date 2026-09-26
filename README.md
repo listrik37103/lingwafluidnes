@@ -1,3 +1,5 @@
+<img title="lifl image" src="./lifl.jpg" alt="lifl image" width="400">
+
 # 1. The begin(ning): What is it -- lingwa fluidnes?
 
 Lingwa fluidnes is not any particular lingwa(ge). It is a practice and[an] a way[ol], with[eng] the goal of transforming the internationally used English into a mor good[obry] and[an] fair instrument for the whole world[unya]. It tries to make the result mor easy to lern, and[an] not unfairly benefit any one[hid] group over the others.
