@@ -6,7 +6,7 @@ Lingwa fluidnes is not any particular lingwa(ge). It is a practice and[an] a way
 
 ### Uh... Why are you writing like that?
 
-I am practicing it rite(ght) now. For now, just know that square brackets, [ ] <- these [vas]things, show [vas]things which ar diferent from standard English. On the other hand, round brackets, ( ) <- like this one[hid], show what is standard English. If you hav troubles understanding what I mean -- [s]if I included the brackets, you can recreate a version of the text much closer to standard English.
+I am practicing it rite(ght) now. For now, just know that square brackets, *[ ]* <- these [vas]things, show [vas]things which ar diferent from standard English. On the other hand, round brackets, *( )* <- like this one[hid], show what is standard English. If you hav troubles understanding what I mean -- [s]if I included the brackets, you can recreate a version of the text much closer to standard English.
 
 When I say that I am practicing to lingwa fluidnes in this very moment, do not misunderstand that the way[ol] I am doing it[a] now is the final go(a)l. The usage -- or the use[ayong]ing, is fluid, which allows for lingwa fluidnes to smoothly integrate into any use[ayong] case of English. That is it[a]'s key principel.
 
@@ -15,10 +15,49 @@ Even [s]if the lower [wak]time parts do not make up a good[obry] international l
 
 ### What are the [wak]time parts?
 
-I am currently use[ayong]ing a lower part of lingwa fluidnes. Ita's features ar blend words out of standard English + international vocabulary, relativly insignificant grammar changeweys, an[dan] likewise quite tame orthography changeweys.
-On the later parts the blend words collapse, so, for examp[isa]l, the word "world[unya]" becomes just "dunya". The later parts also use[ayong] a lot of new grammar, which, when use[ayong]ed all at once becomes very un-understandable for speekers of standard English.
+I do now use[ayong] an erly part of lingwa fluidnes. It[a]'s main feetur(e) is ita's understand ability for most English speekers. Ita does hav basic gramar, w[a]riting, and[an] vocabulary change[weys].
 
-With[engan] the introduction finished, the next part talk[ahna]s about[entang] the philosophy of lingwa fluidnes, ita's guiding forces.
+The most notice-fit efect of [wak]time parts is see able in the change[wey] of words. Let's take an examp[isa]l:
+
+The word "world" is very close to "dunya" in Hindi, Arabic and[an] several other linguages. The low [wakt]ime part for "world" is "world[unya]":
+
+   ``
+   world -> world[unya] -> worl[dunya]
+   ``
+
+The arow does show to change[wey] of use[ayong]ing. After enuf use[ayong]ing of the first [wakt]ime part person[afar]s lern to ita and get used to ita. In this way[ol], they now (k)now to "dunya" in "worldunya", and we can remove to ita.
+
+   ``
+   worl[dunya] -> dunya
+   ``
+
+In this way[ol] "world" does go thru 3 cleer [wak]time parts: original, preper(are), nyu(ew). The whole lingwage does also go thru this parts, but[api] les cleerly.
+
+## I don't like some of this.
+
+It is cam[il]pletely fine! Yu do not hav to accsept and[an] use[ayong] all change[weys], if you ar not re(a)dy. Togethering lingwa fluidnes into your speek[ahna]ing can be as[ay] much as[ay] just, for exampel, using "did" for past [wak]time saying:
+
+    ``I went to the cafe -> I did go to the cafe``
+
+What this does is that it removes the unnecesary un-rule-ish "went", and[an] in a way[ol] that doesn't feel[ag] just as[ay] o(w)kward as[ay] the Orwellian "goed".
+
+Another [vas]thing English lerners (and[an] every English-speek[ahna]ing person[afar] els) often hav trub(b)els with[engan] -- is it's w[a]riting. You can adopt rule-ifying change[wey]s as[ay] you see fit.
+
+Overall this part comes down mostly to just taking [wak]time to stop and[an] think for a second about[entang] your text. How can yu make it mor transparent? What simpler word can I use[ayong], and[an], perhaps, construct a nyu(ew) one[hid] or reform it (think of "rule-ifying" for "regularizing")?
+
+Don't wor()y, lerning this is like any lingwa lerning. With[engan] efort -- it becomes automatic, and[an] even byutiful.
+
+## parts of this text
+
+1. The begin(ning): What is it -- lingwa fluidnes?
+
+2. guiding design decisions
+   
+   2.1. Word elect[shan]ing
+   
+   2.2. changewey thru [wak]time parts (phases)
+
+3. get-proposed gramar, word [jun]together-creating (building), sound and[an] writing system
 
 # 2. The guiding forces of lingwa fluidnes:
 
@@ -30,7 +69,7 @@ The process by which words, or saythings -- ar being elect(d), relies on several
 
 [S]if the comunity did agree on someow lingwa [dastu]rule or a saything -- you shud changewey to your use[ayong]ing acordingly. Likewise, [s]if a [dastu]rule alredy did get a lot of use[ayong]ing and[an] many[ka] person[afar]s alredy (k)now to it, you shud not reform to it, even [s]if does exist an objectivly mor good[obry] alternativ. Of course, ar posibel some[ow] exception cases, [s]if the old version daz harm too much, and[an] with[engan] comunity voting.
 
-### [dastu]rule of simpelnes
+### [dastu]rul(e) of simpelnes
 
 Befor borowing a saything -- try to get know [s]if a mor basic one[hid] satisfies your needs. Try to be minimalist. As[ay] examp[isa]l, do not borow "law" and[an] create some[ow] [vas]thing like "[fa]law", for since[abab] "rule" is enuf.
 
@@ -38,15 +77,18 @@ You shud also serch to way[ol]s to say your wanted meanaing with[engan] combinin
 
 The way[ol], in which a person[afar] does get know, that one[hid] saything is mor simpel than other -- is by looking which daz get say (gets said) mor often. 
 
-### [dastu]rule of ma(t)ching
+### [dastu]rul() of ma(t)ching
 
 The nyu(ew) saything ||(word)|| shall hav at leest one[hid] sound/letter in common with[engan] the English saything, in the way[ol] that they can be conjoined with[engan] it. As[ay] an examp[isa]l:
+
 1. Hindi and[an] Arabic [am]both hav "kitāb" (romanized) as[ay] their saything for "book", and[an], handily, "kitāb" also ends with[engan] a "b", just like "book". This permit[in]s for us to make "kitabook".
 2. "dan" is Indonesian for "and", and[an] because[abab] of "dan" starting with[engan] a "d", and[an] "and" ending with[engan] it[a], we can blend them into "andan".
 
-### [dastu]rule of majority
+### [dastur]ul of majority
 
 The nyu(ew) ma(t)ching saything must hav mor person[afar]s that (k)now it[a] than any other possibel variant. The way[ol] in which this is calculated is by looking at which lingwas the saything is present in, and[an] putting [jun]together their numbers of total speekers (nativ and[an] lerned). This tho daz not include very basic (k)nowage of a lingwa, as[ay], examp[isa]l, such as[ay] most of the world[unya] (k)nowing English on a basic level.
+
+[S]if the maching saything is not the primary way[ol] of saying the intended mean[a]ing in ita's lingwa, then 
 
 ### Exceptions to ma(t)ching and[an] majority
 
@@ -55,6 +97,7 @@ English is excluded from[in] the list of lingwas from[in] which a saything can b
 In [nadi]rare ocasions, a saything which is recognizabel for an English speeker can be borrowed from[in] an other lingwa, but[api] this requires it to be exceptionally recognizabel for the rest of the world[unya] as well.
 
 The reesons for this is compensating ar:
+
 1. Saythings always having an English leter / sound left from[in] ma()ching
 2. Un-able-nes to fully change[wey] some[ow] parts of English
 3. Change[wey] phases of lingwa fluidnes having the posibility of being used as[ay] lerning tools for future English speekers
@@ -62,25 +105,31 @@ The reesons for this is compensating ar:
 ## 2.2. changewey thru [wak]time parts (phases)
 
 Changewey can be dun (done) with[engan] 3 way[ol]s:
+
 1. Adding part and[an] removing to they
-``
-way + ol = wayol
-wayol - wa = yol 
-``
+   
+   ``
+   way + ol = wayol
+   wayol - wa = yol 
+   ``
+
 2. Sound changewey
-``
-"meana" has an added "a" part, but[api] is also to be change[wey]ed from[in] an "ee" sound slowly to an "a" sound, thru a way[ol] like this:
-ee [iː] -> i [ɪ] -> uh [ə] -> a [a]
-like the vowels in nEEd, sIt, cOmpare, fAther
-``
+   
+   ``
+   "meana" has an added "a" part, but[api] is also to be change[wey]ed from[in] an "ee" sound slowly to an "a" sound, thru a way[ol] like this:
+   ee [iː] -> i [ɪ] -> uh [ə] -> a [a]
+   like the vowels in nEEd, sIt, cOmpare, fAther
+   ``
+
 3. Mean[a]ing inference
-``
-Mandarin Chinese does use[ayong] "吗" (ma) to form yes or no questions. To make a mor regular way[ol] to ask questions of our for-goals, we can use[ayong] it in addition for English question marking...
-"Do you want to eet ma?"
-...and then drop it when person[afar]s do (k)now to it enuf:
-"You want to eet ma?"
-This is the primary changewey way[ol] for gramar.
-``
+   
+   ``
+   Mandarin Chinese does use[ayong] "吗" (ma) to form yes or no questions. To make a mor regular way[ol] to ask questions of our for-goals, we can use[ayong] it in addition for English question marking...
+   "Do you want to eet ma?"
+   ...and then drop it when person[afar]s do (k)now to it enuf:
+   "You want to eet ma?"
+   This is the primary changewey way[ol] for gramar.
+   ``
 
 # 3. get-proposed gramar, word [jun]together-creating (building), sound and[an] writing system
 
@@ -107,6 +156,7 @@ wil = afternes ||(future)|| [wak]time
 "someow afterthing wil mor be during many[ka] hundred yeer" = "some effects will continue for many centuries"
 
 ### *Reeson*
+
 A separat word for this is much eesier to implement properly, rather than inflection.
 
 An inflection alternativ would be, as[ay] examp[isa]l, keeping the English "-s" ending. This, tho, introduces quite complex syllabels, [s]if the verb dares to end in a consonant. As[ay] examp[isa]l, "thinks" is alredy CVCCC (C = consonant, V = vowel). A natural solution out of this, which English alredy employs in someow cases, would be to use[ayong] "-es". This, tho, now sounds wrong with[engan] verbs that end in a vowel: "seees", "talkahnaes".
@@ -146,11 +196,12 @@ Because[abab] the reliance on such constructions over suffixes is many[ka] bigge
 
 "doychi lingwa lerning"
 The way[ol], in which this frase is to be parsed, is like this:
+
 1. lerning, which is karacterized by languages = language lerning
 2. language lerning, which is karacterized by "doychi", that is, Germany (Deutschland), = language lerning in Germany, or in a German way[ol]
-This means that "doychi lingwa lerning" IS NOT about[entang] lerning German.
-Insted, to say that, I recommend:
-"lerning of doychi lingwa"
+   This means that "doychi lingwa lerning" IS NOT about[entang] lerning German.
+   Insted, to say that, I recommend:
+   "lerning of doychi lingwa"
 
 In lower phases, when just sticking words side by side does not go, I recommend using the same "of" or "-ish"
 
@@ -183,27 +234,26 @@ They hav corresponding nouns and[an] verbs
 As[ay] we see with[engan] "the insides", English alredy in someow waktimes does a same-like thing. Let's see now how we can changewey to others to be like it:
 
 1. I am going to the building
--> I daz building for-go
--> I daz building for (go)
--> say daz bildfi for
+   -> I daz building for-go
+   -> I daz building for (go)
+   -> say daz bildfi for
 
 2. The goal was reached within nine hours
--> For-goal did being reach(ed) of nine hour inside
+   -> For-goal did being reach(ed) of nine hour inside
     and[an]: The "for" of this did being reached of nine hour inside
 
 3. But simpler tools are available and more useayongful. 
--> Butapi mor simpel do-with-things ar availabel and[an] mor use-fit
--> Tapi mor simpel withengan-things ar availabel an[dan] mor useayongfit
--> Tapi mor simpel dengan is availabel dan mor sayongfit
+   -> Butapi mor simpel do-with-things ar availabel and[an] mor use-fit
+   -> Tapi mor simpel withengan-things ar availabel an[dan] mor useayongfit
+   -> Tapi mor simpel dengan is availabel dan mor sayongfit
 
 4. A talk show discussing technology related topics
--> A talk show discussing teknology related topics
--> A talk show discussing teknology related abouts  // cud use[ayong] "about-things" but[api] seems like just "about" works in most cases
+   -> A talk show discussing teknology related topics
+   -> A talk show discussing teknology related abouts  // cud use[ayong] "about-things" but[api] seems like just "about" works in most cases
 
 5. The story tells about an old man
--> The story abouts an old man  // possibel "about-tells" as[ay] transitional
--> ...
-
+   -> The story abouts an old man  // possibel "about-tells" as[ay] transitional
+   -> ...
 
 # 3.5. Saything-b(u)ilding ||(word building)||
 
