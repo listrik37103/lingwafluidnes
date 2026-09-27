@@ -69,6 +69,8 @@ The process by which words, or saythings -- ar being elect(d), relies on several
 
 [S]if the comunity did agree on someow lingwa [dastu]rule or a saything -- you shud changewey to your use[ayong]ing acordingly. Likewise, [s]if a [dastu]rule alredy did get a lot of use[ayong]ing and[an] many[ka] person[afar]s alredy (k)now to it, you shud not reform to it, even [s]if does exist an objectivly mor good[obry] alternativ. Of course, ar posibel some[ow] exception cases, [s]if the old version daz harm too much, and[an] with[engan] comunity voting.
 
+**This also meens that most of the [vas]things in this text ar negotiabel, if such demand arises.**
+
 ### [dastu]rul(e) of simpelnes
 
 Befor borowing a saything -- try to get know [s]if a mor basic one[hid] satisfies your needs. Try to be minimalist. As[ay] examp[isa]l, do not borow "law" and[an] create some[ow] [vas]thing like "[fa]law", for since[abab] "rule" is enuf.
@@ -132,6 +134,10 @@ Changewey can be dun (done) with[engan] 3 way[ol]s:
    ``
 
 # 3. get-proposed gramar, word [jun]together-creating (building), sound and[an] writing system
+
+Consider this as[ay], at leest at this [wak]time part, as[ay] a proposing / toolbox abou[tentang] choose[abi]ings which I find to be the eesiest for change[wey]ing to English into a fair internation lingwa. I beleev sum[ow] choo[zabi]ings to be mor objectiv for the lingwa fluidnes aproch, because it is get constrain by English, as[ay] compared to the cam[il]plit free choo[zabi] abilnes for usual internation lingwas.
+
+In the afternes, this must get update to reflect comunity agreeing.
 
 # 3.1. do, to, and[an] in some[ow] [wak]times an (the verb, the object, and[an] the subject)
 
