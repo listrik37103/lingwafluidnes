@@ -269,12 +269,3 @@ an {x}, to {x}, general use[ayong]ing of {x} as a noun  --  some[ow] [vas]thing 
 {x}ish  --  marks the saything as[ay] an adjectic, for lower phases
 {x}fit  --  fit for {x}, havin qualities which make it[a] good[obry] for {x}
 {x}like  -- like {x}, but[api] not cam[il]pletely, only partially or halfway
-
-# Too long?
-
-I can say words really fast
-ay kan sey wordz rili fast
-say daz fast say abil to sayfi
-Kotoba o sugoku hayaku iemasu
-Mabilis akong bumigkas nang salita
-(Mabilis akong bumigkas ng salita)
